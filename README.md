@@ -1,4 +1,4 @@
-## Hey, I'm D 👋
+## Hey, I'm Daniel 👋
 
 I'm a CS grad building toward a career in offensive security / red teaming, entering through a SOC Analyst role.
 
