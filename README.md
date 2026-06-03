@@ -1,12 +1,10 @@
 ## Hey, I'm Daniel 👋
 
-I'm a CS grad building toward a career in offensive security / red teaming, entering through a SOC Analyst role.
+CS grad on a focused path into offensive security. Currently building Python skills for red teaming — scripting, networking, and eventually security tooling.
 
-### What I'm working toward
+### Goal
 
-**Goal:** Penetration tester / red team operator  
-**Path:** SOC Analyst → Security+ → CTF competitor → red team tooling  
-**Stack:** Python for scripting, automation, and security tooling
+Penetration tester / red team operator, entering through a SOC Analyst role.
 
 ### Current focus
 
