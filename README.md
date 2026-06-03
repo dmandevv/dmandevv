@@ -1,6 +1,4 @@
-## Hey, I'm Daniel 👋
-
-CS grad on a focused path into offensive security. Currently building Python skills for red teaming — scripting, networking, and eventually security tooling.
+## CS grad building toward red team. Python, networking, eventually security tooling.
 
 ### Goal
 
