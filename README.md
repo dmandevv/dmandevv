@@ -1,22 +1,12 @@
-## CS grad building toward red team. Python, networking, eventually security tooling.
+## CS grad building toward a SOC engineering career. Python, networking, detection tooling.
 
 ### Goal
 
-Penetration tester / red team operator, entering through a SOC Analyst role.
+SOC Engineer, entering through a SOC Analyst role.
 
 ### Current focus
 
-Working through a structured red team Python curriculum:
-
-| Step | Focus | Status |
-|---|---|---|
-| 1 — Python Fundamentals | Data structures, FastAPI, decorators, generators | ✅ Complete |
-| 2 — Networking with Python | Sockets, port scanning, protocol analysis | 🔄 In progress |
-| 3 — CTF Challenges | Capture the Flag competitions | Coming up |
-| 4 — Security+ | Cert prep | Coming up |
-| 5 — Security Tools | Building red team tooling | Coming up |
-
-→ [redteam-python-journey](https://github.com/dmandevv/redteam-python-journey) · [redteam-python-networking](https://github.com/dmandevv/redteam-python-networking)
+→ [soc-python-journey](https://github.com/dmandevv/soc-python-journey) — structured Python curriculum, from fundamentals through networking, Security+, and SOC practice labs.
 
 ### Background
 
