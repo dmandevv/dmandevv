@@ -1,15 +1,3 @@
-## CS grad building toward a SOC engineering career. Python, networking, detection tooling.
+## Computer Science graduate previously at Prestige Monitoring Station, now building hands-on cybersecurity and networking skills toward a SOC Analyst role.
 
-### Goal
-
-SOC Engineer, entering through a SOC Analyst role.
-
-### Current focus
-
-→ [soc-python-journey](https://github.com/dmandevv/soc-python-journey) — structured Python curriculum, from fundamentals through networking, Security+, and SOC practice labs.
-
-### Background
-
-- B.Sc. Computer Science — Thompson Rivers University
-- Alarm monitoring / SOC-adjacent operations experience
-- Prior full-stack JS work (mostly private repos)
+[soc-python-journey](https://github.com/dmandevv/soc-python-journey) — structured Python curriculum, from fundamentals through Network+, Security+, and SOC practice labs.
